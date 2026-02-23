@@ -14,7 +14,7 @@ page 50114 CarsCardPage
                 field(Name; Rec.Car)
                 {
                     ApplicationArea = All;
-                    Caption = 'Car';
+                    Caption = 'Carritos'; // Se muestra el nombre del campo en la tabla, no el caption del campo
                 }
                 field(Description; Rec.Description)
                 {
