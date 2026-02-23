@@ -4,7 +4,7 @@ page 50146 "My Cars Page"
     ApplicationArea = All;
     UsageCategory = Administration;
     SourceTable = Car;
-    CardPageId = 50114; // Link to the card page
+    CardPageId = 50114; // Link to the card page Test
     layout
     {
         area(Content)
