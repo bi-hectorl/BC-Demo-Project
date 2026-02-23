@@ -1,0 +1,17 @@
+# VS Code workspace
+.vscode/
+
+# AL build artifacts
+.alpackages/
+bin/
+obj/
+
+# Extension package outputs
+*.app
+
+# Temporary cache files
+.alcache/
+
+# System files
+.DS_Store
+Thumbs.db
